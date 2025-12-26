@@ -23,7 +23,30 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+ <img width="1246" height="591" alt="Screenshot 2025-12-26 183337" src="https://github.com/user-attachments/assets/2619aa0f-ac60-4bdb-bd0e-1b052fd7f604" />
+
+
+ <img width="714" height="193" alt="Screenshot 2025-12-26 183347" src="https://github.com/user-attachments/assets/70f044a8-8bff-4cc4-a360-28b32ef859cb" />
+
+
+  <img width="799" height="702" alt="Screenshot 2025-12-26 183358" src="https://github.com/user-attachments/assets/8e30fd02-8fa3-470f-8aab-ef512fa61fa4" />
+
+ <img width="623" height="262" alt="Screenshot 2025-12-26 183409" src="https://github.com/user-attachments/assets/d020c5d9-90e7-455d-b28c-a5420093afa8" />
+        
+
+ <img width="901" height="685" alt="Screenshot 2025-12-26 183420" src="https://github.com/user-attachments/assets/b88b299e-e67f-49de-8465-a3ef8ff06c79" />
+
+ <img width="699" height="774" alt="Screenshot 2025-12-26 183433" src="https://github.com/user-attachments/assets/0f990d4b-f3e2-46bf-b5f7-ee894c087202" />
+
+
+<img width="830" height="407" alt="Screenshot 2025-12-26 183443" src="https://github.com/user-attachments/assets/4d50b5ce-4957-4b09-8f7f-3d0f7dd5adc2" />
+
+        
+
+<img width="852" height="748" alt="Screenshot 2025-12-26 183458" src="https://github.com/user-attachments/assets/5625043c-1df1-4b47-b45b-b1ece401293a" />
+
+
+
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+Thus the program to implement the data analysis has been successfully completed. 
